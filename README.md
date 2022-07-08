@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IJ1TI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 
+Started coding recently :)))
+- 👀 Python mainly
+- 🌱 Python mainly
+- 💞️ Python mainly
 
 <!---
 Started coding recently :)))
